@@ -8,6 +8,6 @@ const concat = require('concat');
     './dist/pi-game-wc/main.js'
   ];
 
-  await fs.ensureDir('publish');
-  await concat(files, 'publish/pi-game-wc.js');
+  await fs.ensureDir('public');
+  await concat(files, 'public/pi-game-wc.js');
 })();
