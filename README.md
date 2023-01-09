@@ -1,5 +1,7 @@
 # pi-game-wc
 
+App can be accessed using https://neerajsachdeva.github.io/pi-game-wc/
+
 Credit goes to https://codepen.io/graphilla/pen/MWVWaMz
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
